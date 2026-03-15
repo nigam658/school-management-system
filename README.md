@@ -1,8 +1,5 @@
 # School App System
 
-## Author
-Nigam Gouda
-
 
 A simple **School Management System** built using **Python and MySQL**.
 This project allows managing student data for different classes using a command-line interface.
@@ -42,4 +39,5 @@ std_10.py      -> Class 10 student system
 ```
 python School.py
 ```
-
+## Author
+Nigam Gouda
