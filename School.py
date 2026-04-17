@@ -43,7 +43,7 @@ class School :
             if grade_index == Grade : 
                 break
             else:
-                previous_grade = self.grade_system[grade_index] 
+                previous_grade = self.grade_system[grade_index]
 
         for mark_index in self.marks:  # LOOPING THE MARK DICTIONARY
             prcntg = self.get_percentage(mark_index)   # CALL THE PERCENTAGE FUCNTION TO CALCULATE MARKS OF AGIVEN ROLL NO
